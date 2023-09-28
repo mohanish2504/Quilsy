@@ -1,4 +1,5 @@
 # Quilsy
+Converted core idea of this app to [Synqnest](https://synqnest.com)
 
 ## Motivation
 - Idea was to create an app for both Android and iOS which can catch copy/cut events directly from os and keep it in live sync between devices.
